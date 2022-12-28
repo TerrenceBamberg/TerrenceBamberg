@@ -1,4 +1,4 @@
-# Hi and Welcome!  😄
+# Hi and Welcome!  😄      [![linkedIn](https://user-images.githubusercontent.com/51840702/209761293-013fbabc-4c06-4b06-be47-ebce03eaf27a.svg)](www.linkedin.com/in/terrencebamberg)
 
 I'm Terrence, a Computer Science graduate from Auburn University and aspiring Java developer searching for new and exciting opportunities.
 
@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
