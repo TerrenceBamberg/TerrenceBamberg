@@ -1,6 +1,6 @@
 # Hi, and Welcome!  &ensp;  😄    
 
-I'm Terrence, a Computer Science graduate from Auburn University and aspiring Java developer searching for new and exciting opportunities.
+I'm Terrence, an Auburn University Computer Science graduate and aspiring Java developer searching for new and exciting opportunities.
 
 My interests include developing microservices-based RESTful business applications and enterprise application modernization. 
 
