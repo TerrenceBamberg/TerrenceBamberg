@@ -1,9 +1,12 @@
-# Hi and Welcome!  😄      [![linkedIn](https://user-images.githubusercontent.com/51840702/209761293-013fbabc-4c06-4b06-be47-ebce03eaf27a.svg)](www.linkedin.com)
+# Hi, and Welcome!  &ensp;  😄    
 
 I'm Terrence, a Computer Science graduate from Auburn University and aspiring Java developer searching for new and exciting opportunities.
 
 My interests include developing microservices-based RESTful business applications and enterprise application modernization. 
 
+Let's connect! &nbsp; :link:
+
+# [![linkedIn](https://user-images.githubusercontent.com/51840702/209761293-013fbabc-4c06-4b06-be47-ebce03eaf27a.svg)](https://www.linkedin.com/in/terrencebamberg/)
 
 
 <!--
