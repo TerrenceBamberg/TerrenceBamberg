@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi and Welcome!  😄
+
+My name is Terrence, a Computer Science graduate from Auburn University and aspiring Java developer searching for new and exciting opportunities.
+
+My current interests include developing microservices-based RESTful business applications and enterprise application modernization. 
+
+
 
 <!--
 **TerrenceBamberg/TerrenceBamberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
