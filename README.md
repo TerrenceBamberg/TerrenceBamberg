@@ -2,7 +2,7 @@
 
 I'm Terrence, an Auburn University Computer Science graduate and aspiring Java developer searching for new and exciting opportunities.
 
-My interests include developing microservices-based RESTful business applications and enterprise application modernization. 
+My primary interests include designing and developing microservices-based RESTful business applications and enterprise application modernization. 
 
 Let's connect! &nbsp; :link:
 
