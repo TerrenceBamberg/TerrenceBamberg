@@ -1,10 +1,22 @@
-# Hi, and Welcome!  &ensp;  😄    
+# Hi, and Welcome!  &nbsp;  😄    
 
-I'm Terrence, an Auburn University Computer Science graduate and aspiring Java developer searching for new and exciting opportunities.
+I'm Terrence, an Auburn University Computer Science graduate searching for exciting opportunities to collaborate with and lead technical teams. I have 7 years of experience working with the largest FDA regulated orthodontic laboratory in the USA. I am heavily engaged in all aspects of the business and possess in-depth knowledge of the systems, products, and manufacturing processes. My current interests include ERP implementation and business-critical system integrations as I am actively guiding a NetSuite Implementation that began February 2023. I am also interested in application modernization including designing and developing microservices-based RESTful business applications. My expertise coupled with strong tech skills sets me apart making me an instrumental team member. 
 
-My primary interests include designing and developing microservices-based RESTful business applications. 
 
-Let's connect! &nbsp; :link:
+## A Bit About Me
+<ul>
+  <li>Devoted Husband and Father</li>
+  <li>Dedicated to continuous learning</li>  
+  <li>Java is my primary object-oriented language</li>
+  <li>Love to golf</li>
+  <li>College football fanatic, WAR EAGLE! 🦅</li>
+  <li>Food and travel enthusiast</li>
+</ul>
+
+
+
+
+## Let's Connect! &nbsp; :link:
 
 # [![linkedIn](https://user-images.githubusercontent.com/51840702/209761293-013fbabc-4c06-4b06-be47-ebce03eaf27a.svg)](https://www.linkedin.com/in/terrencebamberg/)
 
